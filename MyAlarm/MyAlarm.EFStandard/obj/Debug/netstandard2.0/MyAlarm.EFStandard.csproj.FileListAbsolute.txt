@@ -1,0 +1,9 @@
+D:\MyAlarm\MyAlarm.EFStandard\bin\Debug\netstandard2.0\MyAlarm.EFStandard.deps.json
+D:\MyAlarm\MyAlarm.EFStandard\bin\Debug\netstandard2.0\MyAlarm.EFStandard.dll
+D:\MyAlarm\MyAlarm.EFStandard\obj\Debug\netstandard2.0\MyAlarm.EFStandard.csprojAssemblyReference.cache
+D:\MyAlarm\MyAlarm.EFStandard\obj\Debug\netstandard2.0\MyAlarm.EFStandard.csproj.CoreCompileInputs.cache
+D:\MyAlarm\MyAlarm.EFStandard\obj\Debug\netstandard2.0\MyAlarm.EFStandard.AssemblyInfoInputs.cache
+D:\MyAlarm\MyAlarm.EFStandard\obj\Debug\netstandard2.0\MyAlarm.EFStandard.AssemblyInfo.cs
+D:\MyAlarm\MyAlarm.EFStandard\bin\Debug\netstandard2.0\MyAlarm.EFStandard.pdb
+D:\MyAlarm\MyAlarm.EFStandard\obj\Debug\netstandard2.0\MyAlarm.EFStandard.dll
+D:\MyAlarm\MyAlarm.EFStandard\obj\Debug\netstandard2.0\MyAlarm.EFStandard.pdb
